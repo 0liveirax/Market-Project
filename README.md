@@ -13,7 +13,7 @@ O mercado virtual oferece um extenso catálogo de produtos, organizados em categ
 Gestão de Estoque: 
 Para uma experiência mais realista, os usuários podem gerenciar seus estoques, monitorando o fluxo de entrada e saída de produtos.
 
-==================================================================================================================================================
+##
 
 Objetivos do Projeto:
 
