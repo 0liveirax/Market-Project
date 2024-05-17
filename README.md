@@ -2,7 +2,7 @@
 
 O projeto Simulação de Mercado Virtual é uma aplicação desenvolvida para proporcionar uma experiência realista e  interativa de um mercado, permitindo aos usuários simular atividades comerciais em um ambiente virtual. O projeto incorpora funcionalidades que refletem aspectos práticos do mundo dos negócios.
 
-Recursos Principais:
+### Recursos Principais:
 
 Cadastro de Usuários: 
 Os participantes podem criar contas individuais, personalizando seus perfis e registrando informações pertinentes.
@@ -15,7 +15,7 @@ Para uma experiência mais realista, os usuários podem gerenciar seus estoques,
 
 ##
 
-Objetivos do Projeto:
+### Objetivos do Projeto:
 
 Proporcionar uma experiência educativa sobre práticas de negócios e economia.
 Desenvolver habilidades de gestão, tomada de decisões e estratégia.
